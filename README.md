@@ -1,2 +1,2 @@
-# engenharia-arduino
-Curso de introdução à Engenharia com Arduíno.
+# Introdução à Engenharia com Arduíno
+Curso de introdução à Engenharia com Arduíno da Udemy.
