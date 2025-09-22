@@ -1,4 +1,4 @@
-//Switch é uma alternativa para o comando if
+//Switch é uma alternativa para o comando if e else
 
 int dia = 4;
 switch (dia) {
