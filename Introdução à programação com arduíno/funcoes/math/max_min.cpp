@@ -1,7 +1,7 @@
 //MAX e MIN permitem retornar o maior e o menor número de um conjunto, respectivamente
 
 #include <iostream>;
-#include <math>;
+#include <cmath>;
 
 using namespace std;
 
