@@ -1,0 +1,6 @@
+//AT retorna um valor especificado
+
+//retorna o valor específico de um array
+
+int numeros[5] = {10, 20, 30, 40, 50};
+numeros.at(1);
