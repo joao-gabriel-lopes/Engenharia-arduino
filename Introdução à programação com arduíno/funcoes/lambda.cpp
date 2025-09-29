@@ -41,3 +41,15 @@ int main() {
 //   myFunction(message);
 //   return 0;
 // }
+
+//capture clause [], permite criar cópias de variáveis
+
+// int main() {
+//   int x = 10;
+//   auto show = [x]() {
+//     cout << x;
+//   };
+
+//   show();
+//   return 0;
+// }
