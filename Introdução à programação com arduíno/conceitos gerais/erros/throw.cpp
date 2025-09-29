@@ -1,0 +1,1 @@
+//Throw possibilita intencionalmente lançar um erro no programa
