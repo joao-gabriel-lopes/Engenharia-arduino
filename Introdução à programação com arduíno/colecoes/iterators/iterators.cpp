@@ -38,6 +38,6 @@ for (it = carros.begin(); it != carros.end(); ++it) {
 }
 
 //percorrendo os elementos do vetor com um iterador de maneira inversa
-for (auto it = cars.rbegin(); it != cars.rend(); ++it) {
+for (auto it = carros.rbegin(); it != carros.rend(); ++it) {
   cout << *it << "\n";
 }
