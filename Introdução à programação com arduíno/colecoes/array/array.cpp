@@ -1,7 +1,10 @@
 //Arrays permitem armazenar diversas variáveis de um mesmo tipo
 
-#include <iostream>;
 #include <array>;
+#include <iostream>;
+#include <string>;
+
+using namespace std;
 
 //declarando um array sem valores
 

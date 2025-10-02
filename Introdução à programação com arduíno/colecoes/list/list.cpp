@@ -1,6 +1,10 @@
 //Listas permitem armazenar valores do mesmo tipo e cresce dinamicamente, porém elas não permitem acessar diretamente um elemento e permitem introduzir elementos no início e no fim
 
-#include <list>
+#include <list>;
+#include <iostream>;
+#include <string>;
+
+using namespace std;
 
 //criando uma lista
 

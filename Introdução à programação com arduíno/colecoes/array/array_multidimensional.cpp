@@ -1,5 +1,11 @@
 //Arrays multidimensionais permitem armazenar variáveis em duas ou mais dimensões
 
+#include <array>;
+#include <iostream>;
+#include <string>;
+
+using namespace std;
+
 //criando um array com duas dimensões
 
 string letras[2][4] = {

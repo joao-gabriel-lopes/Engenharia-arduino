@@ -1,5 +1,10 @@
 //STRUCTURES ou STRUCTS permitem armazenar variáveis de vários tipos diferentes
 
+#include <iostream>;
+#include <string>;
+
+using namespace std;
+
 //criando uma struct
 
 struct {             // declaração da structure
