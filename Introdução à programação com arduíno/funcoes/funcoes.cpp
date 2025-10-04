@@ -8,7 +8,7 @@ void func(){ //tipo pode ser void, int, string, bool, float, double, char, auto
 
 //chamando uma função
 
-func();
+// func();
 
 
 

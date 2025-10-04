@@ -1,5 +1,9 @@
 //Namespaces permitem isolar código em diferentes blocos que podem ser utilizados em conjunto
 
+#include <iostream>;
+
+using namespace std;
+
 //exemplo de namespace
 
 namespace Inteiros {

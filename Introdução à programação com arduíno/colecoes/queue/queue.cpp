@@ -12,31 +12,31 @@ queue<string> carros;
 
 //adicionando elementos na fila
 
-carros.push("Volvo");
-carros.push("BMW");
-carros.push("Ford");
-carros.push("Mazda");
+// carros.push("Volvo");
+// carros.push("BMW");
+// carros.push("Ford");
+// carros.push("Mazda");
 
 //acessando elementos da fila
 
-cout << carros.front();  //acessa o primeiro elemento
+// cout << carros.front();  //acessa o primeiro elemento
 
-cout << carros.back();  //acessa o último elemento
+// cout << carros.back();  //acessa o último elemento
 
 //modificando valores da fila
 
-carros.front() = "Tesla"; //modifica o primeiro elemento
+// carros.front() = "Tesla"; //modifica o primeiro elemento
 
-carros.back() = "VW"; //modifica o último elemento
+// carros.back() = "VW"; //modifica o último elemento
 
 //removendo o valor da frente
 
-carros.pop();
+// carros.pop();
 
 //checando o tamanho da fila
 
-cout << carros.size();
+// cout << carros.size();
 
 //checando se a fila está vazio
 
-cout << carros.empty();
+// cout << carros.empty();

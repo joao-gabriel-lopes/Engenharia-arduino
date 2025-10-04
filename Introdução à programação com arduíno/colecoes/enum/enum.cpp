@@ -18,7 +18,7 @@ enum Nivel {
 
 //criando uma instância do enum
 
-enum Nivel enum1 = MEDIO;
+//enum Nivel enum1 = MEDIO;
 
 
 

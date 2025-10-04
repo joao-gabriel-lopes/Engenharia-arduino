@@ -13,11 +13,11 @@ vector<string> carros = {"Volvo", "BMW", "Ford", "Mazda"};
 
 //ordenando ascendentemente
 
-sort(carros.begin(), carros.end());
+// sort(carros.begin(), carros.end());
 
 //ordenando descendentemente
 
-sort(carros.rbegin(), carros.rend());
+// sort(carros.rbegin(), carros.rend());
 
 //criando um vetor de números
 
@@ -28,7 +28,7 @@ auto it = find(numeros.begin(), numeros.end(), 3);
 
 //organizando o vetor
 
-sort(numeros.begin(), numeros.end());
+// sort(numeros.begin(), numeros.end());
 
 //procurando pelo primeiro número maior que 5
 
@@ -50,7 +50,7 @@ vector<int> numerosCopia(6);
 
 //copia os elementos do vetor numeros para o vetor numerosCopia
 
-copy(numeros.begin(), numeros.end(), numerosCopia.begin());
+// copy(numeros.begin(), numeros.end(), numerosCopia.begin());
 
 //função fill(), preenche todos os elementos de um vetor com um valor
 
@@ -60,4 +60,4 @@ vector<int> numerosPreenchidos(6);
 
 //preenche todos os valores do vetor com 35
 
-fill(numbers.begin(), numbers.end(), 35);
+// fill(numbers.begin(), numbers.end(), 35);

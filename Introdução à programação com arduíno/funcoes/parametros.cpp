@@ -1,5 +1,9 @@
 //parâmetros permitem passar conteúdos de variáveis para a função
 
+#include <iostream>;
+
+using namespace std;
+
 int nome(string nome){
     cout << nome;
     return 0;

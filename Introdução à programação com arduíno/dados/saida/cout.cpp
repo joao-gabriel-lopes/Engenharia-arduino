@@ -1,6 +1,6 @@
 //COUT tem como função exibir informações desejadas
 
-#include <iostream>
+#include <iostream>;
 using namespace std;
 
 int main() {

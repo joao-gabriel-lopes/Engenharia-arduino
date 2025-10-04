@@ -4,7 +4,7 @@
 
 //criando um map
 
-map<string, int> pessoas = { {"John", 32}, {"Adele", 45}, {"Bo", 29} };
+//map<string, int> pessoas = { {"John", 32}, {"Adele", 45}, {"Bo", 29} };
 
 //operador greater permite inverter a oredem de declaração da chave e valor
 
@@ -12,22 +12,22 @@ map<string, int> pessoas = { {"John", 32}, {"Adele", 45}, {"Bo", 29} };
 
 //acessando um elemento do map
 
-cout << "John tem " << pessoas["John"] << " anos";
+// cout << "John tem " << pessoas["John"] << " anos";
 
 //acessando com o at
 
-cout << "John tem " << pessoas.at("John") << " anos";
+// cout << "John tem " << pessoas.at("John") << " anos";
 
 //mudando valores de um map
 
-pessoas["John"] = 50;
+// pessoas["John"] = 50;
 
 //adicionando elementos em um map
 
-pessoas["Jenny"] = 22;
-pessoas["Liam"] = 24;
-pessoas["Kasper"] = 20;
-pessoas["Anja"] = 30;
+// pessoas["Jenny"] = 22;
+// pessoas["Liam"] = 24;
+// pessoas["Kasper"] = 20;
+// pessoas["Anja"] = 30;
 
 //adicionando elementos com insert
 
@@ -38,7 +38,7 @@ pessoas["Anja"] = 30;
 
 //removendo elementos de um map
 
-pessoas.erase("John");
+// pessoas.erase("John");
 
 //removendo todos os elementos de um map
 
@@ -46,18 +46,18 @@ pessoas.erase("John");
 
 //checando o tamanho de um map
 
-cout << pessoas.size();
+// cout << pessoas.size();
 
 //verificando se um map está vazio
 
-cout << pessoas.empty();
+// cout << pessoas.empty();
 
 //verificando se uma chave existe
 
-cout << pessoas.count("John");
+// cout << pessoas.count("John");
 
 //percorrendo os elementos de um map
 
-for (auto pessoa : pessoas) {
-  cout << pessoa.first << " is: " << pessoa.second << "\n";
-}
+// for (auto pessoa : pessoas) {
+//   cout << pessoa.first << " is: " << pessoa.second << "\n";
+// }

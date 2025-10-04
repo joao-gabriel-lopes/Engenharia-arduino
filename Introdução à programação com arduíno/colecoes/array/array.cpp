@@ -24,20 +24,20 @@ string carros3[] = {"Volvo", "BMW", "Ford"};
 
 //acessando os valores de um array
 
-cout << carros2[0];
+// cout << carros2[0];
 
 //modificando os valores de um array
 
-carros2[0] = "Fusca";
+// carros2[0] = "Fusca";
 
 //percorrendo um array
 
 //for
-for (int i = 0; i < 5; i++) {
-  cout << carros2[i] << "\n";
-}
+// for (int i = 0; i < 5; i++) {
+//   cout << carros2[i] << "\n";
+// }
 
 //foreach
-for (int num : myNumbers) {
-  cout << num << "\n";
-}
+// for (int num : myNumbers) {
+//   cout << num << "\n";
+// }

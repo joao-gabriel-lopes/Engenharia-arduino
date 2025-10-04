@@ -21,11 +21,11 @@ struct {
 
 //acessando um membro de uma structure
 
-structure2.numero1;
+// structure2.numero1;
 
 //atribuindo um valor para um membro de um structure
 
-structure2.numero1 = 1;
+// structure2.numero1 = 1;
 
 //structures nomeadas
 

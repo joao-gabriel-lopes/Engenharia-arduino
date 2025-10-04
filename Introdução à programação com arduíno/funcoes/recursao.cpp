@@ -1,5 +1,9 @@
 //Recursão permite repetir uma função até concluir uma parte do código
 
+#include <iostream>;
+
+using namespace std;
+
 int Soma(int k) {
   if (k > 0) {
     return k + Soma(k - 1);

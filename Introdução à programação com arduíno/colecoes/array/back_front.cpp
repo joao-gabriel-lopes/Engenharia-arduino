@@ -9,7 +9,7 @@ using namespace std;
 int numeros[5] = {10, 20, 30, 40, 50};
 
 //exemplo de back
-numeros.back();
+// numeros.back();
 
 //exemplo de front
-numeros.front();
+// numeros.front();

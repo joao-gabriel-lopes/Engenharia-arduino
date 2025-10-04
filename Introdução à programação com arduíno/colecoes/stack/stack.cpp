@@ -12,27 +12,27 @@ stack<string> carros;
 
 //adicionando elementos em uma pilha
 
-carros.push("Volvo");
-carros.push("BMW");
-carros.push("Ford");
-carros.push("Mazda");
+// carros.push("Volvo");
+// carros.push("BMW");
+// carros.push("Ford");
+// carros.push("Mazda");
 
 //acessando o valor do topo da pilha
 
-cout << carros.top()
+// cout << carros.top()
 
 //mudando o valor do topo da pilha
 
-carros.top() = "Tesla";
+// carros.top() = "Tesla";
 
 //removendo o valor do topo da pilha
 
-carros.pop();
+// carros.pop();
 
 //checando o tamanho da pilha
 
-cout << carros.size();
+// cout << carros.size();
 
 //checando se a pilha está vazio
 
-cout << carros.empty();
+// cout << carros.empty();

@@ -8,19 +8,19 @@ using namespace std;
 
 //criando um set
 
-set<string> carros = {"Volvo", "BMW", "Ford", "Mazda"};
+// set<string> carros = {"Volvo", "BMW", "Ford", "Mazda"};
 
 //organizando um set em ordem descendente
 
-set<int, greater<int>> numeros = {1, 7, 3, 2, 5, 9};
+// set<int, greater<int>> numeros = {1, 7, 3, 2, 5, 9};
 
 //adicionando elementos em um set
 
-carros.insert("Tesla");
+// carros.insert("Tesla");
 
 //removendo um elemento em um set
 
-carros.erase("Volvo");
+// carros.erase("Volvo");
 
 //removendo todos os elementos de um set
 
@@ -28,14 +28,14 @@ carros.erase("Volvo");
 
 //checando o tamanho do set
 
-cout << carros.size();
+// cout << carros.size();
 
 //checando se o set está vazio
 
-cout << carros.empty()
+// cout << carros.empty()
 
 //percorrendo por um set
 
-for (string carro : carros) {
-  cout << carro << "\n";
-}
+// for (string carro : carros) {
+//   cout << carro << "\n";
+// }

@@ -6,18 +6,18 @@ using namespace std;
 
 int x = 10;
 
-if(x > 11){
-    cout << "abc";
-} else{
-    cout << "def";
-}
+// if(x > 11){
+//     cout << "abc";
+// } else{
+//     cout << "def";
+// }
 
-//else if
+// //else if
 
-if(x > 11){
-    cout << "abc";
-} else if{
-    cout << "def";
-} else {
-    cout << "ghi";
-}
+// if(x > 11){
+//     cout << "abc";
+// } else if{
+//     cout << "def";
+// } else {
+//     cout << "ghi";
+// }

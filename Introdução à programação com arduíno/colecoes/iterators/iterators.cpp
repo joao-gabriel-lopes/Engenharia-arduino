@@ -18,7 +18,7 @@ vector<string>::iterator it;
 
 //função begin() acessa o início da estrutura de dados
 
-it = carros.begin();
+//it = carros.begin();
 
 //apontando para o terceiro elemento
 
@@ -33,11 +33,11 @@ it = carros.begin();
 //it = carros.end() - 1;
 
 //percorrendo os elementos do vetor com um iterador
-for (it = carros.begin(); it != carros.end(); ++it) {
-  cout << *it << "\n";
-}
+// for (it = carros.begin(); it != carros.end(); ++it) {
+//   cout << *it << "\n";
+// }
 
 //percorrendo os elementos do vetor com um iterador de maneira inversa
-for (auto it = carros.rbegin(); it != carros.rend(); ++it) {
-  cout << *it << "\n";
-}
+// for (auto it = carros.rbegin(); it != carros.rend(); ++it) {
+//   cout << *it << "\n";
+// }
