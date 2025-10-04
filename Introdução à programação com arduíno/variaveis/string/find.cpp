@@ -1,7 +1,7 @@
 //Find permite procurar a primeiração ocorrência de um elemento em uma string
 
-#include <iostream>;
-#include <string>;
+#include <iostream>
+#include <string>
 
 using namespace std;
 

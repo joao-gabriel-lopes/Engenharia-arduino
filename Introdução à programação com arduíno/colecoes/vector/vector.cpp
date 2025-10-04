@@ -1,8 +1,8 @@
 //Vectors são similares aos array, porém possuem um tamanho dinâmico
 
-#include <iostream>;
-#include <string>;
-#include <vector>;
+#include <iostream>
+#include <string>
+#include <vector>
 
 using namespace std;
 

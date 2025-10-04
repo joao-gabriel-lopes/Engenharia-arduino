@@ -1,8 +1,8 @@
 //Sets armazenam valores únicos, onde valores iguais ou duplicados são ignorados, os valores são ordenados de maneira ascendente, é possível adicionar ou remover valores, mas não é possível modificá-los
 
-#include <queue>;
-#include <iostream>;
-#include <string>;
+#include <queue>
+#include <iostream>
+#include <string>
 
 using namespace std;
 

@@ -1,6 +1,6 @@
 //parâmetros permitem passar conteúdos de variáveis para a função
 
-#include <iostream>;
+#include <iostream>
 
 using namespace std;
 

@@ -1,8 +1,8 @@
 //SIZE retorna o número de elementos de um array
 
-#include <array>;
-#include <iostream>;
-#include <string>;
+#include <array>
+#include <iostream>
+#include <string>
 
 using namespace std;
 

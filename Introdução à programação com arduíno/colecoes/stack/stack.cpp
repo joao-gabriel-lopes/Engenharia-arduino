@@ -1,8 +1,8 @@
 //Stacks funcionam com base no LIFO, onde o primeiro a entrar é o último a sair, assim sempre que remover um elemento, esse elemento será o último adicionado
 
-#include <stack>;
-#include <iostream>;
-#include <string>;
+#include <stack>
+#include <iostream>
+#include <string>
 
 using namespace std;
 

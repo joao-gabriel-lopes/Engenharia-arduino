@@ -1,6 +1,6 @@
 //Variáveis armazenam um dado na memória do hardware
 
-#include <iostream>;
+#include <iostream>
 
 using namespace std;
 

@@ -1,6 +1,6 @@
 //IF e ELSE tem como função testar condições, verificando se são verdadeiras ou falsas
 
-#include <iostream>;
+#include <iostream>
 
 using namespace std;
 

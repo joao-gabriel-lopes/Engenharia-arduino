@@ -1,6 +1,6 @@
 //COUT tem como função exibir informações desejadas
 
-#include <iostream>;
+#include <iostream>
 using namespace std;
 
 int main() {
@@ -11,7 +11,7 @@ int main() {
 //para adicionar uma nova linha
 
 int exemplo() {
-  cout << "Olá! \N";
+  cout << "Olá! \n";
   cout << "Tudo bem?";
   return 0;
 }

@@ -1,8 +1,8 @@
 //SIZE OF retorna o tamanho do array em bytes
 
-#include <array>;
-#include <iostream>;
-#include <string>;
+#include <array>
+#include <iostream>
+#include <string>
 
 using namespace std;
 

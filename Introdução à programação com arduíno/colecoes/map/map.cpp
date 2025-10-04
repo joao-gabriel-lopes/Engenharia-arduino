@@ -1,10 +1,13 @@
 //Maps armazenam valores de par chave e valor, as chaves são únicas e servem como identificação dos valores, os valores são organizados de maneira ascendente de acordo com a chave
 
-#include <map>;
+#include <map>
+#include <iostream>
+
+using namespace std;
 
 //criando um map
 
-//map<string, int> pessoas = { {"John", 32}, {"Adele", 45}, {"Bo", 29} };
+map<string, int> pessoas = { {"John", 32}, {"Adele", 45}, {"Bo", 29} };
 
 //operador greater permite inverter a oredem de declaração da chave e valor
 

@@ -1,6 +1,6 @@
 //Throw possibilita intencionalmente lançar um erro no programa
 
-#include <iostream>;
+#include <iostream>
 
 using namespace std;
 

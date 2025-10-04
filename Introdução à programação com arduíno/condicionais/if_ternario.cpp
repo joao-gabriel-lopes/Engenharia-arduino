@@ -1,6 +1,6 @@
 //IF ternário tem como objetivo compactar a sintaxe do if e else
 
-#include <iostream>;
+#include <iostream>
 
 using namespace std;
 

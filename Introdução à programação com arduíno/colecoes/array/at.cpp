@@ -1,8 +1,8 @@
 //AT retorna um valor especificado
 
-#include <array>;
-#include <iostream>;
-#include <string>;
+#include <array>
+#include <iostream>
+#include <string>
 
 using namespace std;
 

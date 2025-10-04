@@ -1,6 +1,6 @@
 //Pointers indicam o local da memória que uma variável está armazenada
 
-#include <iostream>;
+#include <iostream>
 
 using namespace std;
 

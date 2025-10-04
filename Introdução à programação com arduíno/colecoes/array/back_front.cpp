@@ -1,8 +1,8 @@
 //BACK retorna uma referêcencia para o fim de um array e FRONT retorna uma referêcencia para o início de um array
 
-#include <array>;
-#include <iostream>;
-#include <string>;
+#include <array>
+#include <iostream>
+#include <string>
 
 using namespace std;
 

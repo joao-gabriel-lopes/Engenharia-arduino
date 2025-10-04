@@ -1,6 +1,6 @@
 //Recursão permite repetir uma função até concluir uma parte do código
 
-#include <iostream>;
+#include <iostream>
 
 using namespace std;
 

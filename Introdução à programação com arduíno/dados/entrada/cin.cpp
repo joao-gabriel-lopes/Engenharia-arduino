@@ -1,7 +1,7 @@
 //CIN tem como função coletar dados que o usuário digitar
 
-#include <iostream>;
-#include <string>;
+#include <iostream>
+#include <string>
 
 using namespace std;
 

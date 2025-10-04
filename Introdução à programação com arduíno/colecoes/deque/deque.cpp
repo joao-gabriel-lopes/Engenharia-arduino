@@ -1,8 +1,8 @@
 //Deques são filas de duas pontas, permitindo retirar elementos do início e do fim da fila
 
-#include <deque>;
-#include <iostream>;
-#include <string>;
+#include <deque>
+#include <iostream>
+#include <string>
 
 using namespace std;
 

@@ -1,9 +1,9 @@
 //Algorithms são funções usadas para resolver problemas com estruturas de dados como organizar, pesquisar ou manipular informações
 
-#include <iostream>;
-#include <string>;
-#include <algorithm>;
-#include <vector>;
+#include <iostream>
+#include <string>
+#include <algorithm>
+#include <vector>
 
 using namespace std;
 

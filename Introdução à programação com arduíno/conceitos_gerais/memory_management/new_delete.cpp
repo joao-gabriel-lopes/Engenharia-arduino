@@ -1,6 +1,6 @@
 //NEW e DELETE permitem gerenciar o armazenamento de memória de maneira manual
 
-#include <iostream>;
+#include <iostream>
 
 using namespace std;
 

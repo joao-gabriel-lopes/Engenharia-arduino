@@ -1,7 +1,7 @@
 //Strings do estilo C são baseadas na string da linguagem C, possuindo assim acesso a funções da linguagem C
 
-#include <iostream>;
-#include <string>;
+#include <iostream>
+#include <string>
 
 using namespace std;
 

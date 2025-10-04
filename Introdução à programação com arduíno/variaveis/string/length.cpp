@@ -1,7 +1,7 @@
 //Length retorna o tamanhod de uma string
 
-#include <iostream>;
-#include <string>;
+#include <iostream>
+#include <string>
 
 using namespace std;
 

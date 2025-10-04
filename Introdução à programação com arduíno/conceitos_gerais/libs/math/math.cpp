@@ -1,7 +1,7 @@
 //Classe MATH permite permite o uso de funções que executam operações matemáticas
 
-#include <iostream>;
-#include <cmath>;
+#include <iostream>
+#include <cmath>
 
 using namespace std;
 

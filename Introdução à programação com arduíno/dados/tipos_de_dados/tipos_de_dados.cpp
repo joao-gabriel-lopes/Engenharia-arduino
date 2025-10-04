@@ -1,6 +1,6 @@
 //Dados possuem diferentes tipos que podem representar valores numéricos, textos e até verdadeiro ou falso
 
-#include <iostream>;
+#include <iostream>
 
 using namespace std;
 

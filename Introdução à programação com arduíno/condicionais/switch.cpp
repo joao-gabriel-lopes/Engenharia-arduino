@@ -1,6 +1,6 @@
 //Switch é uma alternativa para o comando if e else
 
-#include <iostream>;
+#include <iostream>
 
 using namespace std;
 

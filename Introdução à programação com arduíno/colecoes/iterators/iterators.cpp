@@ -1,8 +1,8 @@
 //Iterators são usados para percorrer estruturas de dados, através do apontamento
 
-#include <iostream>;
-#include <string>;
-#include <vector>;
+#include <iostream>
+#include <string>
+#include <vector>
 
 using namespace std;
 

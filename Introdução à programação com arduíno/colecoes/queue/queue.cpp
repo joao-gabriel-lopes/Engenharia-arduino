@@ -1,8 +1,8 @@
 //Queues seguem o esquema FIFO, onde o primeiro a entrar é o primeiro a sair, assim ao remover um elemento ele terá sido o primeiro da fila
 
-#include <queue>;
-#include <iostream>;
-#include <string>;
+#include <queue>
+#include <iostream>
+#include <string>
 
 using namespace std;
 

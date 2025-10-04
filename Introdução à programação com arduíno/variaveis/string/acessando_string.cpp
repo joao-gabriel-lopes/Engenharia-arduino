@@ -1,7 +1,7 @@
 //Acessar strings permite a manipulação da sequência de caracteres armazenados nela
 
-#include <iostream>;
-#include <string>;
+#include <iostream>
+#include <string>
 
 using namespace std;
 

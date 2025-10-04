@@ -1,7 +1,7 @@
 //STRUCTURES ou STRUCTS permitem armazenar variáveis de vários tipos diferentes
 
-#include <iostream>;
-#include <string>;
+#include <iostream>
+#include <string>
 
 using namespace std;
 

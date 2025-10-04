@@ -1,6 +1,6 @@
 //Referências são armazenadas na memória do dispositivo, variáveis apontam para o local onde essas referências estão armazenadas
 
-#include <iostream>;
+#include <iostream>
 
 using namespace std;
 

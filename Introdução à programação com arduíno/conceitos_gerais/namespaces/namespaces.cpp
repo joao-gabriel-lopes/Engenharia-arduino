@@ -1,6 +1,6 @@
 //Namespaces permitem isolar código em diferentes blocos que podem ser utilizados em conjunto
 
-#include <iostream>;
+#include <iostream>
 
 using namespace std;
 

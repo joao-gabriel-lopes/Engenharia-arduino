@@ -1,8 +1,8 @@
 //Arrays multidimensionais permitem armazenar variáveis em duas ou mais dimensões
 
-#include <array>;
-#include <iostream>;
-#include <string>;
+#include <array>
+#include <iostream>
+#include <string>
 
 using namespace std;
 

@@ -1,8 +1,8 @@
 //Arrays permitem armazenar diversas variáveis de um mesmo tipo
 
-#include <array>;
-#include <iostream>;
-#include <string>;
+#include <array>
+#include <iostream>
+#include <string>
 
 using namespace std;
 

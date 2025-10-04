@@ -1,7 +1,7 @@
 //Concatenação tem a função de unir o conteúdo de duas ou mais strings
 
-#include <iostream>;
-#include <string>;
+#include <iostream>
+#include <string>
 
 using namespace std;
 
