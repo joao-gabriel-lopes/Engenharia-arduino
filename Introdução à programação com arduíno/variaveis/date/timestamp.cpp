@@ -13,3 +13,8 @@ time(&timestamp);
 //Mostra o tempo atual com base no timestamp criado
 
 cout << ctime(&timestamp);
+
+//outra maneira de criar um timestamp
+
+time_t timestamp = time(NULL);
+
